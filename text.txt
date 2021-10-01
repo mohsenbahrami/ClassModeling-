@@ -1,0 +1,50 @@
+North Carolina ::  Raleigh
+Indiana :: Indianapolis
+Wyoming :: Cheyenne
+Mississippi  :: Mississippi 
+Utah :: Salt Lake City
+Arizona :: Phoenix
+Montana :: Helena
+Kentucky :: Frankfort
+California ::  Sacramento
+Kansas :: Topeka
+Delaware :: Dover
+Florida :: Tallahassee
+Pennsylvania :: Harrisburg
+Iowa :: Des Moines
+Illinois :: Springfield
+Texas :: Austin
+Connecticut ::  Hartford
+Georgia :: Atlanta
+Maryland :: Annapolis
+Virginia :: Richmond
+Idaho :: Boise
+Oregon :: Salem
+Vermont :: Montpelier
+Maine :: Augusta
+Oklahoma :: Oklahoma City
+Tennessee :: Nashville
+Alabama :: Montgomery
+Arkansas :: Little Rock
+South Carolina :: Columbia
+Washington :: Olympia
+Nebraska :: Lincoln
+West Virginia :: Charleston
+Colorado :: Denver
+Massachusetts :: Boston
+Missouri :: Jefferson City
+Alaska :: Juneau
+North Dakota :: Bismarck
+Wisconsin :: Madison
+Nevada :: Carson City
+New York :: Albany
+Rhode Island :: Providence
+Hawaii :: Honolulu
+South Dakota ::  Pierre
+Minnesota :: St. Paul
+New Jersey :: Trenton
+Michigan :: Lansing
+New Mexico :: Santa Fe
+New Hampshire :: Concord
+Louisiana :: Baton Rouge
+Ohio :: Columbus
